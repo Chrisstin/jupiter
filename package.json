@@ -1,0 +1,25 @@
+{
+  "name": "jupiter",
+  "version": "1.0.0",
+  "description": "website for Bliss Boms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisstin/jupiter.git"
+  },
+  "author": "Christine Newbery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrisstin/jupiter/issues"
+  },
+  "homepage": "https://github.com/Chrisstin/jupiter#readme",
+  "dependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.5",
+    "gulp-livereload": "^3.8.1"
+  }
+}
