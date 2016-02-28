@@ -1,0 +1,35 @@
+
+.section-c {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-top: solid 1px #4A4A4A;
+    border-bottom: solid 1px #4A4A4A;
+    background-color: #333333;
+}
+
+.section-c h2 {
+    color: #9995E8;
+}
+
+.section-c h3 {
+    color: #9995E8;
+}
+
+.section-c hr {
+    height: 4px;
+    color: #9995E8;
+    background: #9995E8;
+    font-size: 0;
+    border: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.section-c p {
+	font-size: 19px;
+    color: whitesmoke !important;
+}
+
+.section-c p a, .section-c p a:active, .section-c p a:visited, .section-c p a:hover {
+    color: #9995E8;
+}
